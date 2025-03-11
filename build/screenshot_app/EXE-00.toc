@@ -900,8 +900,8 @@
  [],
  False,
  False,
- 1741695205,
+ 1741697157,
  [('run',
    '/home/samarth/ScreenshotCaptureApp/venv/lib/python3.12/site-packages/PyInstaller/bootloader/Linux-64bit-intel/run',
    'EXECUTABLE')],
- '/lib/x86_64-linux-gnu/libpython3.12.so.1.0')
+ '/lib/x86_64-linux-gnu/libpython3.12.so')

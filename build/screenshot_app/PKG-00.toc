@@ -892,7 +892,7 @@
   ('liblcms2-525547ec.so.2.0.16',
    'pillow.libs/liblcms2-525547ec.so.2.0.16',
    'SYMLINK')],
- 'libpython3.12.so.1.0',
+ 'libpython3.12.so',
  False,
  False,
  False,
